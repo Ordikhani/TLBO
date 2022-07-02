@@ -1,5 +1,5 @@
 # TLBO
-Matlab code TLBO Algorithm
+MATLAB code of Algorithm TLBO 
 
 
 
